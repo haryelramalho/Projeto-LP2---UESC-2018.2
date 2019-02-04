@@ -6,3 +6,5 @@ Participantes:
 1. Haryel Ramalho
 2. Ariel Narciso 
 3. Breno Moreira
+
+Jogo feito para rodar na plataforma Windows devido incompatibilidade de algumas bibliotecas para Linux/MacOS.
