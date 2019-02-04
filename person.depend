@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1543700024 source:c:\users\trainee\desktop\person\main.c
+	"functions.c"
+
+1543707329 c:\users\trainee\desktop\person\functions.c
+	"header.h"
+
+1543707433 c:\users\trainee\desktop\person\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<process.h>
+	<windows.h>
+
+1543807520 source:c:\users\breno\music\flappy bird - nagareboshi\person\main.c
+	"functions.c"
+
+1543891699 c:\users\breno\music\flappy bird - nagareboshi\person\functions.c
+	"header.h"
+
+1543795506 c:\users\breno\music\flappy bird - nagareboshi\person\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<process.h>
+	<windows.h>
+
+1543778848 source:c:\users\breno\music\flappy bird - nagareboshi\person\functions.c
+	"header.h"
+
