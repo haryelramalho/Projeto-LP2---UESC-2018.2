@@ -1,4 +1,4 @@
-# Projeto-LP2 - UESC-2018.2
+# UESC - 2018.2
 Repositório do Projeto Final da matéria de Linguagem de Programação II.
 
 Participantes: 
